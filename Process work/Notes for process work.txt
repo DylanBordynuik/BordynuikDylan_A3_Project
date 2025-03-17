@@ -1,0 +1,11 @@
+Idea 1: make a meteor dodging game using assignment 2 as a basis
+
+Having random positions and arrays of objects seemed really complicated for the limited time I left for myself
+
+Went back to the drawing board and decided to go to option 2
+
+Idea 2: Clone an existing game
+
+I settled on the first example game given in the instructions: Google's "T-Rex"
+
+A game with a single input, and increasing difficulty.
