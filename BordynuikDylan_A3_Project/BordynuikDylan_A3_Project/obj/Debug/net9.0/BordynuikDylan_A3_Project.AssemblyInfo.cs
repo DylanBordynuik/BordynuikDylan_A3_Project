@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BordynuikDylan_A3_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7db08493b22ad9cf645526422116aa610edad5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+169916bee28b2f440df6e8a65811276f790a1a57")]
 [assembly: System.Reflection.AssemblyProductAttribute("BordynuikDylan_A3_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BordynuikDylan_A3_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
