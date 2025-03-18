@@ -20,7 +20,7 @@ namespace BordynuikDylan_A3_Project
 
         public void Move()
         {
-            // Move the obstacle leftward across the screen
+            // Move the obstacle left across the screen
             position.X -= obstacleSpeed;
 
             // Reset obstacle position if it goes off screen
